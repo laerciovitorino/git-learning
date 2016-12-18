@@ -18,7 +18,19 @@
     create a commit, like you do in Git, vs having versions automatically saved, 
     like Google docs does?
 
-    A.: Fill in your answer here
+    A.: Pros:
+        > I can have more control in what moment I should save my progress;
+        > Sometimes it's much easier to keep track of which version of the
+          file I'm working on;
+        > It's easy to fix a mistake by reverting a file to a specific version
+          of it.
+        
+        Cons:
+        > It can be hard sometimes to decide when is a good moment to save a
+          version of the file;
+        > There is a possibility to forget to commit and then loose a lot of
+          changes made in some version of the file.
+       
 
     Q.: Why do you think some version control systems, like Git, allow saving 
     multiple files in one commit, while others, like Google Docs, treat each 
