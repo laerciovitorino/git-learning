@@ -36,7 +36,13 @@
     multiple files in one commit, while others, like Google Docs, treat each 
     file separately?
 
-    R.: Fill in your answer here
+    R.: Because those systems have different purposes. For example in Git,
+        people are almost always working in projects that have multiple files 
+        related to each other, and a system that can keep track of changes in 
+        those files is really important and helpful. On the other hand, when
+        people use to work on Google Docs, it's really common to work on 
+        unrelated files due to the nature and purpose of those files
+        (e.g. academic work, papers, résumés, spreadsheets etc.).
 
     Q.: How can you use the commands git log and git diff to view the history of 
     files?
