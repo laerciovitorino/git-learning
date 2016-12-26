@@ -47,7 +47,12 @@
     Q.: How can you use the commands git log and git diff to view the history of 
     files?
 
-    A.: Fill in your answer here
+    A.: With the git log command I can see who did what and in which files. I
+        can see all the changes made over time in the files of some project.
+        With the git diff command I can compare two versions of some file or,
+        I can compare different versions of different files in the projects and
+        see what changed over time and how those files and the entire project
+        were affected by those changes.
 
     Q.: How might using version control make you more confident to make changes 
     that could break something?
