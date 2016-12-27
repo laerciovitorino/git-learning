@@ -57,7 +57,9 @@
     Q.: How might using version control make you more confident to make changes 
     that could break something?
 
-    A.: Fill in your answer here
+    A.: Whenever I make a mistake and insert some bug in my code, I can easily
+        revert the code to a previous version that I know it is working, see
+        what I have done wrong and then fix it.
 
     Q.: Now that you have your workspace set up, what do you want to try using 
     Git for?
