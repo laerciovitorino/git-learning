@@ -64,4 +64,7 @@
     Q.: Now that you have your workspace set up, what do you want to try using 
     Git for?
 
-    A.: Fill in your answer here
+    A.: I want to use Git to work on different kinds of projects, to contribute
+        with the community, to keep track of the files in the projects I am 
+        working on and the projects I will work on, that is I want to use Git
+        in as many as I can.
