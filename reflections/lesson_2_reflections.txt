@@ -7,3 +7,13 @@
         It's necessary to initialize the repository to turn it into a git
         repository, and then start to keep track of all the work done in that
         directory and keep that folder under version control.
+    
+    Q.: How is the staging area different from the working directory and the
+        repository? What value do you think it offers?
+    
+    A.: The staging area is a part of Git that permits the user to decide if
+        those files inserted therein will be in the next commit or not. It is
+        an intermediate area where the files stay before going to the 
+        repository or be removed. So I think the staging area offers a great
+        flexibility to the user in order to facilitate his/her work on files
+        under version control.
