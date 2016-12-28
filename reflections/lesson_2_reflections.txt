@@ -1,0 +1,9 @@
+    Q.: What happens when you initialize a repository? Why do you need to do 
+        it?
+    
+    A.: A .git folder is created, which is responsible to keep track of all the
+        work that will be done in that respository. The repository now is a git
+        one.
+        It's necessary to initialize the repository to turn it into a git
+        repository, and then start to keep track of all the work done in that
+        directory and keep that folder under version control.
