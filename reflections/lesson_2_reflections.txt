@@ -17,3 +17,17 @@
         repository or be removed. So I think the staging area offers a great
         flexibility to the user in order to facilitate his/her work on files
         under version control.
+    
+    Q.: How can you use the staging area to make sure you have one commit per
+        logical change?
+    
+    A.: It's possible to use the staging area to compare different versions of
+        one file or several files with both the working directory and the 
+        repository, and then guarantee that there is one commit per logical 
+        change. For example, it's possible to use the git diff command, with no 
+        arguments, to compare files in the staging area and those in the working
+        directory to make sure that what it's being added to the staging area
+        is what the user want to commit afterwards. Also it is possible to use
+        the git diff --staged command to compare files in the staging area with
+        those in the repository and decide if those ones needs to be committed
+        or not.
