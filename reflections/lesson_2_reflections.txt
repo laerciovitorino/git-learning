@@ -31,3 +31,12 @@
         the git diff --staged command to compare files in the staging area with
         those in the repository and decide if those ones needs to be committed
         or not.
+    
+    Q.: What are some situations when branches would be helpful in keeping your
+        history organized? How would branches help?
+    
+    A.: Whenever the user wants to try something new in a project, but he/she
+        doesn't know yet if it will work; whenever a programmer wants to
+        implement new features in a project, in both situations it is always
+        a good idea to use branches to keep the history well organized and do
+        not polute the master branch.
