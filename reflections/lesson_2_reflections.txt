@@ -57,3 +57,15 @@
         We represent the merge in the diagram as a new node, because after the
         merge a new commit was done creating a new state in which the repository
         history will continue from that point and forward.
+    
+    Q.: What are the pros and cons of Git's automatic merging vs. always doing
+        merges manually?
+    
+    A.: With automatic merging you know that Git uses sophisticated algorithms
+        to perform such task, so you can trust the merging process is done in 
+        a right fashion. Nonetheless, sometimes you feel that it is not a good
+        idea leaving this process for Git do it automtically since it is
+        possible that two contributors made some changes in the same sections
+        of a file and from those changes conflicts in the merge process can
+        emerge, and Git probably could not resolve the conflicts by itself and
+        then could clutters the result file.
