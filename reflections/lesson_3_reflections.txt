@@ -1,5 +1,14 @@
-    Q.: When would you want to use a remote repository rather than keeping all your work local?
+    Q.: When would you want to use a remote repository rather than keeping all 
+        your work local?
     
-    A.: It's always a good idea to have a remote repository when you want share all your work with other people, or when you want
-        other people collaborate with you in some task or project, or even when you want your work accessible wherever you go to
-        work whenever you can.
+    A.: It's always a good idea to have a remote repository when you want share 
+        all your work with other people, or when you want other people 
+        collaborate with you in some task or project, or even when you want your
+        work accessible wherever you go to work whenever you can.
+    
+    Q.: Why might you want to always pull changes manually rather than having
+        Git automatically stay up-to-date with your remote repository?
+    
+    A.: Because is not always you want all the code/files that are in the remote
+        at a certain time. So it is preferable that the user has the control
+        over which files are necessary and relevant in each circumstances.
