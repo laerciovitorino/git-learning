@@ -47,3 +47,13 @@
         branches derives from each one and from which commit a new branch was
         created. This kind of structure makes it easy to see the big picture
         of the respository strucute of commits overtime.
+    
+    Q.: What is the result of merging two branches together? Why do we represent
+        it in the diagram the way we do?
+    
+    A.: The result is that the two branches after the merge are composed with 
+        the same code, with the branch that was checked-out at the moment of the
+        merge having the tip commit.
+        We represent the merge in the diagram as a new node, because after the
+        merge a new commit was done creating a new state in which the repository
+        history will continue from that point and forward.
