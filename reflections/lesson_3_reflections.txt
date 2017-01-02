@@ -1,0 +1,5 @@
+    Q.: When would you want to use a remote repository rather than keeping all your work local?
+    
+    A.: It's always a good idea to have a remote repository when you want share all your work with other people, or when you want
+        other people collaborate with you in some task or project, or even when you want your work accessible wherever you go to
+        work whenever you can.
