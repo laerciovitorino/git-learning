@@ -27,4 +27,13 @@
         machine.
         Branches is used to label commits for a specific purpose, for example
         to create and test new feature in a project.
+    
+    Q.: What is the benefit of having a copy of the last known state of the
+        remote stored locally?
+    
+    A.: It's really helpful and avoids some mistakes when occur of doing a merge
+        into the local master or other repository. With the last knwon state of
+        the remote stored locally the user can decide whether is a good choice
+        update your local branch or not, and also helps to see what was changed
+        in the repository and compare with your local changes.
         
