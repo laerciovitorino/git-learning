@@ -12,3 +12,19 @@
     A.: Because is not always you want all the code/files that are in the remote
         at a certain time. So it is preferable that the user has the control
         over which files are necessary and relevant in each circumstances.
+    
+    Q.: Describe the differences between forks, clones, and branches. When
+        would you use one instead of another?
+    
+    A.: Forks are like clones but work that way only on Github context. Clone is
+        the process of pulling a repository from a remote location(e.g. a server
+        to your local machine, or to 'copy' one repository into another one in 
+        your local machine. Branches are labels created to commits and are like
+        clones but only work that way in the local machine.
+        Fork is used to clone a project in the Github environment.
+        Clone is used to pulling down remote repositories into your local
+        machine or to copy one repository into another one in your local
+        machine.
+        Branches is used to label commits for a specific purpose, for example
+        to create and test new feature in a project.
+        
