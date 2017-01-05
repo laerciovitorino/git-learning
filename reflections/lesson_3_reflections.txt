@@ -36,4 +36,16 @@
         the remote stored locally the user can decide whether is a good choice
         update your local branch or not, and also helps to see what was changed
         in the repository and compare with your local changes.
+    
+    Q.: How would you collaborate without using Git or Github? What would be
+        easier, and what would be harder?
+    
+    A.: I could use tools such as Google Drive or Dropbox to collaborate with
+        others. I think it would be easier to share files and all the process
+        would be made via GUI, so I didn't have to learn commands to synchronize
+        files, to avoid conflicts and to turn the files public to anyone who
+        might wanted to collaborate, but on the other hand this process is
+        likely to be be error prone and it is very easy to have a lot of 
+        repeated files inside one folder/directory and to control which vesion 
+        of files is the correct one is much harder.
         
